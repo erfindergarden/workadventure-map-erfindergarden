@@ -10,7 +10,7 @@ This is a starter kit to help you build your own map for [WorkAdventure](https:/
     Private URLs (used in paid accounts) are in the form https://play.workadventu.re/@/[organization]/[world]/[map]
 
 Workadventure Link: https://play.wa.binary-kitchen.de/_/global/erfindergarden.github.io/workadventure-map-erfindergarden/main.json
-Workadventure mobile friendly: https://wa.tabascoeye.de/_/global/dusjagr.github.io/erfindergarden.github.io/workadventure-map-erfindergarden/main.json
+Workadventure mobile friendly: https://wa.tabascoeye.de/_/global/erfindergarden.github.io/workadventure-map-erfindergarden/main.json
 
 ## Tools you will need
 
