@@ -2,6 +2,16 @@
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
+## Erfinderarden Maps 
+
+ To test your map, you need to find its URL. There are 2 kinds of URLs in WorkAdventure:
+
+    Public URLs are in the form https://play.workadventu.re/_/[instance]/[server]/[path to map]
+    Private URLs (used in paid accounts) are in the form https://play.workadventu.re/@/[organization]/[world]/[map]
+
+Workadventure Link: https://play.wa.binary-kitchen.de/_/global/erfindergarden.github.io/workadventure-map-erfindergarden/main.json
+Workadventure mobile friendly: https://wa.tabascoeye.de/_/global/dusjagr.github.io/erfindergarden.github.io/workadventure-map-erfindergarden/main.json
+
 ## Tools you will need
 
 In order to build your own map for WorkAdventure, you need:
